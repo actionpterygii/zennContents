@@ -10,8 +10,8 @@ published: true
 詳しくない
 # 結論
 `.env`ファイルの
-`DB_DATABASE`を``に
-`DB_DATABASE`を``に
+`DB_DATABASE`を`root`に
+`DB_DATABASE`を`mysql`に
 
 とりあえずlocalhostでアクセスしてはじめましてページみたいなのが出るようになりました
 
